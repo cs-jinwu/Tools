@@ -1,4 +1,4 @@
-### Here is my space for recording paper idea and study notes 
+### ⚡ Here is my space for recording paper idea and study notes 
 
 <!--
 **OSDeep/OSDeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
